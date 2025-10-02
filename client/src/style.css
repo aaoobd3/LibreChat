@@ -63,7 +63,7 @@
   --markdown-font-size: 1rem;
 }
 html {
-  --brand-purple: #ab68ff;
+  --brand-purple: #8b5cf6;
   --presentation: var(--white);
   --text-primary: var(--gray-800);
   --text-secondary: var(--gray-600);
